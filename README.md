@@ -8,13 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://linkedin.com/in/aniketnegi" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-           alt="aniketnegi" height="30" width="40" />
+   <a href="https://www.linkedin.com/in/aniketnegi/"> 
+      <img aling="left" alt="Swaraj Pande | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
    </a>
    <a href="mailto:aniket.negi2112@gmail.com"> 
-    <img aling="left" alt="Aniket Negi | Gmail"
-    src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+    <img aling="left" alt="Aniket Negi | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
    </a>
 </p>
 
