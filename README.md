@@ -6,6 +6,8 @@
 - 🔎 I'm looking forward to contribute to some open source projects.
 - 💬 Ask me about anything [**here!**](https://github.com/aniketnegii/aniketnegii/issues)
 
+##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/aniketnegi/"> 
@@ -15,6 +17,8 @@
     <img aling="left" alt="Aniket Negi | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
    </a>
 </p>
+
+##
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -47,7 +51,7 @@
      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
    </a> 
 </p>
-
+##
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketnegii&show_icons=true&locale=en" alt="aniketnegii" /></p>
 </br>
