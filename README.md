@@ -18,6 +18,8 @@
    </a>
 </p>
 
+##
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -49,7 +51,9 @@
      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
    </a> 
 </p>
+
 ##
+
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketnegii&show_icons=true&locale=en" alt="aniketnegii" /></p>
 </br>
