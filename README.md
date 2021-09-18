@@ -57,6 +57,7 @@
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketnegii&show_icons=true&locale=en" alt="aniketnegii" /></p>
 </br>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketnegii" alt="aniketnegii" /></p>
 ![Aniket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketnegii) 
 
 
